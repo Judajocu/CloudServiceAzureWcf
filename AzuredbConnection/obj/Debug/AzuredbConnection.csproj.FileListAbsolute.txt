@@ -1,0 +1,12 @@
+C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzuredbConnection\bin\Debug\AzuredbConnection.dll.config
+C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzuredbConnection\bin\Debug\AzuredbConnection.dll
+C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzuredbConnection\bin\Debug\AzuredbConnection.pdb
+C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzuredbConnection\bin\Debug\EntityFramework.dll
+C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzuredbConnection\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzuredbConnection\bin\Debug\EntityFramework.xml
+C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzuredbConnection\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzuredbConnection\obj\Debug\AzuredbConnection.csprojAssemblyReference.cache
+C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzuredbConnection\obj\Debug\AzuredbConnection.csproj.CoreCompileInputs.cache
+C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzuredbConnection\obj\Debug\AzuredbConnection.csproj.CopyComplete
+C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzuredbConnection\obj\Debug\AzuredbConnection.dll
+C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzuredbConnection\obj\Debug\AzuredbConnection.pdb

@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Emulator config file set to C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzureCloudWcfService\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] DiagnosticsStoreRootPath set to: C:\Users\judaj\AppData\Local\dftmp\Resources\7fa9a854-55a4-42eb-be22-aa2d1a577cc8
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Loading config file: C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzureCloudWcfService\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Config file to read: C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzureCloudWcfService\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Emulator config file set to C:\Users\judaj\Documents\Servidor\CloudService\AzuredbConnection\AzureCloudWcfService\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:28:37 PM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:29:47 PM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [3/30/2019 2:29:47 PM] DiagnosticPlugin exited with code 0

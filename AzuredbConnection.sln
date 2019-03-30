@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzuredbConnection", "AzuredbConnection\AzuredbConnection.csproj", "{C654A139-E259-42C7-9B09-7F83B020B14C}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureCloudWcfService", "AzureCloudWcfService\AzureCloudWcfService.ccproj", "{6BD7F127-AA75-4CD0-B348-40D0484816FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{84683A6E-12FF-45BC-9A19-71B8002D9428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C654A139-E259-42C7-9B09-7F83B020B14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C654A139-E259-42C7-9B09-7F83B020B14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C654A139-E259-42C7-9B09-7F83B020B14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C654A139-E259-42C7-9B09-7F83B020B14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BD7F127-AA75-4CD0-B348-40D0484816FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD7F127-AA75-4CD0-B348-40D0484816FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD7F127-AA75-4CD0-B348-40D0484816FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD7F127-AA75-4CD0-B348-40D0484816FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84683A6E-12FF-45BC-9A19-71B8002D9428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84683A6E-12FF-45BC-9A19-71B8002D9428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84683A6E-12FF-45BC-9A19-71B8002D9428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84683A6E-12FF-45BC-9A19-71B8002D9428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A823D21D-75CF-43D1-86BE-B4D31DD39E2B}
+	EndGlobalSection
+EndGlobal
